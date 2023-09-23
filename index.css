@@ -585,7 +585,7 @@ table {
 
 .first {
   width: 100%;
-  background-image: url(/img/bg/HeaderBackgroundbg1.jpg);
+  background-image: url(img/bg/HeaderBackgroundbg1.jpg);
   height: 862px;
   background-size: cover;
   display: -webkit-box;
